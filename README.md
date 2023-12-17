@@ -6,3 +6,4 @@
 - Test3
 - Test4
 - MergeTest
+- MergeTest2
